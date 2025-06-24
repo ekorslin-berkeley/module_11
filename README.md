@@ -10,3 +10,6 @@ The above bar graph reveals from our kaggle.com data, the primary drivers sought
 ![Odometer_influence_on_sell_price](odometer_vs._price.png)
 
 When plotted, we can see that historic sell prices of used car units show a negative correlation that reveals as odometer readings go up, the anticipated sell price goes down significantly.  For these reasons, we as business anlaysts recommend our clients to first qualify an odometer reading value before agreeing to add any new used car units to their lot(s).
+
+For further review of the analsysis work I've done to arrive at these insightful conclusions, please review my work found in the Jupyter notebook file below:
+https://github.com/ekorslin-berkeley/module_11/blob/main/prompt_II.ipynb 
