@@ -7,4 +7,4 @@ lot.  What, historically, have been the key elements of a used vehicle that inte
 
 The above bar graph reveals from our kaggle.com data, the primary drivers sought out by interested parties historically have been odometer readings & year of the car's origin.  
 
-![Odometer_influence_on_sell_price](odometer_vs._price.png.png)
+![Odometer_influence_on_sell_price](odometer_vs._price.png)
